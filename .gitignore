@@ -35,3 +35,15 @@ ENV/
 .DS_Store
 .vscode/
 .idea/
+
+# Linux / Ubuntu system & filesystem
+lost+found/
+.Trash-*/
+.fuse_hidden*
+.nfs*
+core
+core.*
+*.crash
+
+# Linux editors backup files
+*~
