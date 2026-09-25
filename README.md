@@ -111,7 +111,7 @@ For **dyslexic, visual, and spatial thinkers**, abstract words and syntax tables
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/maleclukas-prog/python-for-dyslexics.git
+git clone https://github.com/lucasmalec/python-for-dyslexics.git
 cd python-for-dyslexics
 
 # 2. Run any task solution (e.g. Stage 1, Module 1, Task 6)
@@ -121,6 +121,6 @@ python3 Part_1_Fundamentals_180_Tasks/Module_01_Variables/solutions/task_06.py
 ---
 
 ## 👤 Author & Architecture
-- **Curriculum Architect:** Lukasz Malec ([@maleclukas-prog](https://github.com/maleclukas-prog))
+- **Curriculum Architect:** Lukasz Malec ([@lucasmalec](https://github.com/lucasmalec))
 - **Standard:** PEP 8 Compliant, Max 88 Characters Line Limit
 - **License:** MIT License ([LICENSE](LICENSE))

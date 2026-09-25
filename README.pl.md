@@ -111,7 +111,7 @@ Dla **umysłu dyslektyka, myśliciela wizualnego i przestrzennego**, abstrakcyjn
 
 ```bash
 # 1. Sklonuj repozytorium na swój dysk
-git clone https://github.com/maleclukas-prog/python-for-dyslexics.git
+git clone https://github.com/lucasmalec/python-for-dyslexics.git
 cd python-for-dyslexics
 
 # 2. Uruchom dowolne rozwiązanie (np. Część 1, Moduł 1, Zadanie 6)
@@ -121,6 +121,6 @@ python3 Part_1_Fundamentals_180_Tasks/Module_01_Variables/solutions/task_06.py
 ---
 
 ## 👤 Autor i Architektura
-- **Architekt programu:** Łukasz Malec ([@maleclukas-prog](https://github.com/maleclukas-prog))
+- **Architekt programu:** Łukasz Malec ([@lucasmalec](https://github.com/lucasmalec))
 - **Standard:** Zgodność z PEP 8, Limit 88 znaków na wiersz
 - **Licencja:** MIT License ([LICENSE](LICENSE))
